@@ -43,7 +43,7 @@
 -----
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=EseEneZeta_icons=true&theme=tokyonight)
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&theme=tokyonight&layout=compact)
 
