@@ -45,7 +45,6 @@
 # <picture><img src="./assets/images/stats.gif" width = 50px heigth = 30px></picture> **Stats**
 <br>
 
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
