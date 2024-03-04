@@ -25,15 +25,31 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!-- LANGUAGES AND TOOLS -->
-<hr>
-<h3 align="center">Languages and Tools:</h3>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+  
+### Programming Languages:
 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-  </p>  
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### Front-End Development:
+
+[![HTML, CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+
+### Softwares and Tools:
+
+[![ds](https://skillicons.dev/icons?i=git,idea)](https://skillicons.dev)
+<br>
+<br>
+
+# <picture><img src="./assets/images/stats.gif" width = 50px heigth = 30px></picture> **Stats**
+<br>
+
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+<br>
+
 
 
 -----
