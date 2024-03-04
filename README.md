@@ -38,7 +38,7 @@
 
 ### Softwares and Tools:
 
-[![ds](https://skillicons.dev/icons?i=git,idea,vs)](https://skillicons.dev)
+[![ds](https://skillicons.dev/icons?i=git,idea,vscode)](https://skillicons.dev)
 <br>
 <br>
 
