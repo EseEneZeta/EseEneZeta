@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Mateo Achá </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mateo+Achá..&hearts;++;Self-taught+Front-End+Developer,;DAW+Student,;Bash+Newbie,;Fortnite+Player,;Real+Madrid+fan,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mateo+Achá..&hearts;++;Self-taught+Front-End+Developer,;DAW+Student,;Bash+Newbie,;Fortnite+Player,;Real+Madrid+fan,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -38,7 +38,7 @@
 
 ### Softwares and Tools:
 
-[![ds](https://skillicons.dev/icons?i=git,idea)](https://skillicons.dev)
+[![ds](https://skillicons.dev/icons?i=git,idea,vs)](https://skillicons.dev)
 <br>
 <br>
 
