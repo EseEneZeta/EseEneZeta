@@ -42,15 +42,6 @@
 <br>
 <br>
 
-# <picture><img src="./assets/images/stats.gif" width = 50px heigth = 30px></picture> **Stats**
-<br>
-
-
-<br>
-<br>
-
-
-
 -----
 
 ## By the way here are some of my statistics 🚀
