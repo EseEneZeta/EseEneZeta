@@ -1,111 +1,73 @@
+<h1 align="center"><b>Hola, soy Mateo Achá 👋</b></h1>
 
-<h1 align="center"><b>Hi , I'm Mateo Achá </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mateo+Achá..&hearts;++;Self-taught+Front-End+Developer,;DAW+Student,;Bash+Newbie,;Fortnite+Player,;Real+Madrid+fan,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End+en+formación;Estudiante+de+DAW;Apasionado+por+el+diseño+web;Fan+de+la+tecnología+y+el+aprendizaje+constante;Siempre+en+modo+%F0%9F%94%A5+aprendiendo+y+mejorando" alt="Typing SVG" />
+  </a>
 </p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right"  src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" width = 250px></picture>
-<br>
-
-- Estudiante de primer año en Desarrollo de Aplicaciones Web (DAW).
-- Experiencia en Java, HTML y CSS.
-- Comprometido con la excelencia y la calidad en el desarrollo web.
-- Apasionado por el diseño de páginas web.
-- Enfoque en mantener un código limpio y organizado.
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-  
-### Programming Languages:
-
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-### Front-End Development:
-
-[![HTML, CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-
-### Softwares and Tools:
-
-[![ds](https://skillicons.dev/icons?i=git,idea,vscode)](https://skillicons.dev)
-<br>
-<br>
-
------
-
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&theme=tokyonight&layout=compact)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/mateoachasanchez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  MateoAcha-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/mateoachasanchez" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Mateoacha-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:mateoachassannchez07@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  mateoachassannchez07-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>GodTeo...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
-<br>
+## 🚀 Sobre mí
 
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
 
-Last Edited on: 19/02/2024
+- 🎓 Estudiante de segundo año en **Desarrollo de Aplicaciones Web (DAW)**.
+- 👨‍💻 En formación como desarrollador **Front-End**, con experiencia en HTML, CSS y Java.
+- 🧠 Apasionado por el diseño web y el aprendizaje constante.
+- 🛠️ Interesado en aprender tecnologías como JavaScript, React, Docker y GitHub Actions.
+- ⚽ Fanático del **Real Madrid** y jugador de **Fortnite**.
+- 💡 Siempre buscando mejorar mis habilidades y colaborar en proyectos interesantes.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 🧑‍💻 Lenguajes de programación:
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### 🌐 Desarrollo Front-End:
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+### 🧰 Herramientas y entornos:
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight" width="47%"/>
+</div>
+
+---
+
+## 🤝 Conecta conmigo
+
+<div align="left">
+  
+- 💼 [LinkedIn](https://linkedin.com/in/mateoachasanchez)
+  
+- 🐦 [Twitter](https://twitter.com/mateoachasanchez)
+  
+- 📬 [Correo electrónico](mailto:mateoachassannchez07@gmail.com)
+
+</div>
+
+---
+
+## ✨ Frase favorita
+
+> _"El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito."_ – Albert Schweitzer
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+</p>
+
