@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre Mí
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 
 Soy un apasionado desarrollador web especializado en desarrollo frontend con creciente experiencia en tecnologías full-stack. Actualmente cursando la carrera de Desarrollo de Aplicaciones Web (DAW), combino conocimientos técnicos con buen ojo para el diseño.
 
@@ -30,7 +30,7 @@ Soy un apasionado desarrollador web especializado en desarrollo frontend con cre
 - 🌐 Construyendo un stack tecnológico versátil para destacar en el panorama cambiante del desarrollo web
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EseEneZeta&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Trofeos GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EseEneZeta&theme=tokyonight&column=4&no-frame=true&margin-w=15&margin-h=15" alt="Trofeos GitHub" />
 </div>
 
 ## 💻 Habilidades Técnicas
@@ -69,10 +69,6 @@ Soy un apasionado desarrollador web especializado en desarrollo frontend con cre
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" />
-</div>
-
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -80,18 +76,16 @@ Soy un apasionado desarrollador web especializado en desarrollo frontend con cre
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight&hide_border=true&locale=es" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight&hide_border=true&locale=es" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EseEneZeta&theme=tokyo-night&hide_border=true" alt="Gráfico de Contribución" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-## 🌟 Desarrollo Profesional
-
-- 📜 **Certificaciones**: Desarrollo Web, JavaScript Avanzado, React.js
-- 📚 **Actualmente aprendiendo**: Patrones avanzados en React, Next.js, GraphQL
-- 🔭 **Metas futuras**: Especialización en arquitectura frontend y optimización de rendimiento
 
 ## 🤝 Abierto a Colaboraciones
 
