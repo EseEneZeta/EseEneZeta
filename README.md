@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+%7C+Entusiasta+Full+Stack;Profesional+en+Dise%C3%B1o+%26+Desarrollo+Web;Arquitectura+Limpia+%7C+UIs+Modernas+%7C+Enfoque+UX;Siempre+aprendiendo%2C+Siempre+construyendo+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Desarrollador+Frontend+%7C+Entusiasta+Full+Stack;Profesional+en+Diseño+y+Desarrollo+Web;Arquitectura+Limpia+%7C+UIs+Modernas+%7C+Enfoque+UX;Siempre+aprendiendo%2C+Siempre+construyendo" />
   </a>
 </p>
 
@@ -72,18 +72,20 @@ Soy un apasionado desarrollador web especializado en desarrollo frontend con cre
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+</div>
+
+<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight&hide_border=true&locale=es" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -96,9 +98,9 @@ Siempre estoy interesado en colaborar en proyectos web innovadores y explorar nu
 - 🧩 Interesado en contribuir a proyectos de código abierto
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=20&fontAlignY=80&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias por visitar mi perfil!&fontSize=20&fontAlignY=80&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EseEneZeta&label=Visitas%20al%20Perfil&color=00C8FF&style=flat-square" alt="Contador de vistas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=EseEneZeta&label=Visitas al Perfil&color=00C8FF&style=flat-square" alt="Contador de visitas del perfil" />
 </div>
