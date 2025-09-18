@@ -19,15 +19,14 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 
-Soy un apasionado desarrollador web especializado en desarrollo frontend con creciente experiencia en tecnologías full-stack. Actualmente cursando la carrera de Desarrollo de Aplicaciones Web (DAW), combino conocimientos técnicos con buen ojo para el diseño.
+Soy un apasionado desarrollador web especializado en desarrollo frontend con creciente experiencia en tecnologías full-stack. Actualmente cursando la carrera de Desarrollo de Aplicaciones Moviles (DAM) y graduado en Diseño de Aplicaciones Web, combino conocimientos técnicos con buen ojo para el diseño.
 
 - 💼 **Desarrollador Frontend** con capacidades full-stack
-- 🎓 **Estudiante avanzado** en Desarrollo de Aplicaciones Web
-- 🔍 Enfocado en crear experiencias web **limpias, intuitivas y modernas**
-- 🎨 Apasionado por los principios de diseño UI/UX y arquitectura web
+- 🎓 **Estudiante de Grado superior** en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Moviles
+- 🔍 Enfocado en hacer webs **limpias, intuitivas y modernas**
+- 🎨 Apasionado por el diseño UI/UX y arquitectura web
 - ⚙️ Orientado al detalle con una **mentalidad estructurada y enfocada en resultados**
-- 🌱 Continuamente aprendiendo y explorando tecnologías emergentes
-- 🌐 Construyendo un stack tecnológico versátil para destacar en el panorama cambiante del desarrollo web
+- 🌱 Continuamente aprendiendo y explorando tecnologías nuevas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EseEneZeta&theme=tokyonight&column=4&no-frame=true&margin-w=15&margin-h=15" alt="Trofeos GitHub" />
@@ -72,22 +71,36 @@ Soy un apasionado desarrollador web especializado en desarrollo frontend con cre
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+
+<!-- Estadísticas generales -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EseEneZeta&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+
+<!-- Lenguajes más usados -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EseEneZeta&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight&hide_border=true&locale=es" />
+
+<!-- Racha de commits -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=EseEneZeta&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<!-- Contribution Grid Snake -->
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake-dark.svg">
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
+  <!-- Fallback -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EseEneZeta/EseEneZeta/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
+
 
 ## 🤝 Abierto a Colaboraciones
 
